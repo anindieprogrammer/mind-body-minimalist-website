@@ -18,13 +18,13 @@ This is a concept of Mind&Body - a minimalist website.
 
 ![](https://res.cloudinary.com/dfrx2gaww/image/upload/v1666702159/web-dev/screens/mind-body/desktop_d9biyb.jpg)
 
-![](https://res.cloudinary.com/dfrx2gaww/image/upload/v1666702160/web-dev/screens/mind-body/mobile_rffd03.jpg)
+![](https://res.cloudinary.com/dfrx2gaww/image/upload/v1666719169/web-dev/screens/mind-body/mobile_v0i9hc.jpg)
 
 ![](https://res.cloudinary.com/dfrx2gaww/image/upload/v1666702159/web-dev/screens/mind-body/mobile-menu_lutvrj.jpg)
 
 ### Links
 
-- Live Site URL: [Netlify]()
+- Live Site URL: [Netlify](https://lustrous-macaron-005efa.netlify.app)
 
 ## My process
 
