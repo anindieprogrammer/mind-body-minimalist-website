@@ -24,7 +24,7 @@ This is a concept of Mind&Body - a minimalist website.
 
 ### Links
 
-- Live Site URL: [Netlify](https://lustrous-macaron-005efa.netlify.app)
+- Live Site URL: [Netlify](https://mindandbody-minimalist.netlify.app/)
 
 ## My process
 
